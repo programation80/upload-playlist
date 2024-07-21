@@ -73,7 +73,6 @@ json
 
 {
   "emailFake": "emailfake@mailsac.com",
-  "emailTestIptv": "emailgeradonotesteiptv@mailsac.com",
   "urlPlaylist": "https://url-da-playlist.com/"
 }
 
